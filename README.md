@@ -46,7 +46,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn-images.himalayas.app/nb465f8n69b1ygu57ufiq7jsf9mx"></code>
-<code><img height="20" width="20" src="![alt text](image.png)"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/master/assets/skills/Java.png"></code>
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/angular.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
