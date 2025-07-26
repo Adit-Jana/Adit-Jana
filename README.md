@@ -13,10 +13,7 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=Adit-Jana&style=flat&base=2660&color=green)
-
 <br />
-<br />
-
 - 🔭 I’m currently working on Java, SpringBoot & RabbitMQ ( Too mainstream right! )
 - 🌱 I’m currently learning Kafka (I know, I know it's very boring)!!!
 - 🤔 I’m diving into Docker, happy to learn togeather
